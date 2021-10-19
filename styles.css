@@ -1,0 +1,50 @@
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+p {
+  color: black;
+  background-color: cyan;
+}
+
+body {
+  background-color: #00FF00;
+  font-family: Verdana, sans-serif;
+}
+
+header {
+  margin-left: 270px;
+  font-size: 14px;
+}
+
+section {
+  background-color: #00FF00;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+article {
+  background-color: cyan;
+  margin: 4px;
+  padding: 10px;
+  width: 400px;
+}
+
+footer {
+  background-color: cyan;
+  margin: 5px 265px 1px 265px;
+  padding: 10px;
+}
